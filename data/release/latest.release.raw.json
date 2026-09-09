@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2405136,
       "digest": "sha256:6a39bd584a203b294a8ba861bd3f9c27da530e7126975b4fab6b39cbd7d4ad7e",
-      "download_count": 1497,
+      "download_count": 1504,
       "created_at": "2025-07-21T06:45:25Z",
       "updated_at": "2025-07-21T06:45:26Z",
       "browser_download_url": "https://github.com/vaibhav-mattoo/bitchat-tui/releases/download/v0.1.0/bitchat-tui-x86_64-unknown-linux-musl.tar.gz"
