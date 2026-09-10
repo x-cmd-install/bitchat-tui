@@ -4,7 +4,7 @@
 
 🔒 Secure, anonymous, peer-to-peer (P2P) Bluetooth chat in your terminal. An off-grid, encrypted TUI messenger built with Rust.
 
-![bitchat-tui](https://repo.x-cmd.io/bitchat-tui.svg)
+![bitchat-tui](https://repo.x-cmd.io/bitchat-tui.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,17 @@ x install bitchat-tui
 - **最新版本**: `v0.1.0` (2025-07-21)
 - **最近提交**: 2025-08-01
 - **Release 含资产**: 6 个
-- **发布时间**: 2025-07-21T00:14:38Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [bitchat-tui-aarch64-apple-darwin.tar.gz](https://github.com/vaibhav-mattoo/bitchat-tui/releases/download/v0.1.0/bitchat-tui-aarch64-apple-darwin.tar.gz) | 1.7 MiB | `native/darwin/arm64` |
+| [bitchat-tui-aarch64-unknown-linux-musl.tar.gz](https://github.com/vaibhav-mattoo/bitchat-tui/releases/download/v0.1.0/bitchat-tui-aarch64-unknown-linux-musl.tar.gz) | 2.0 MiB | `native/linux/arm64/musl` |
+| [bitchat-tui-armv7-unknown-linux-musleabihf.tar.gz](https://github.com/vaibhav-mattoo/bitchat-tui/releases/download/v0.1.0/bitchat-tui-armv7-unknown-linux-musleabihf.tar.gz) | 2.0 MiB | `native/linux/arm/musl` |
+| [bitchat-tui-x86_64-apple-darwin.tar.gz](https://github.com/vaibhav-mattoo/bitchat-tui/releases/download/v0.1.0/bitchat-tui-x86_64-apple-darwin.tar.gz) | 1.8 MiB | `native/darwin/x64` |
+| [bitchat-tui-x86_64-pc-windows-msvc.zip](https://github.com/vaibhav-mattoo/bitchat-tui/releases/download/v0.1.0/bitchat-tui-x86_64-pc-windows-msvc.zip) | 1.6 MiB | `native/win/x64` |
+| [bitchat-tui-x86_64-unknown-linux-musl.tar.gz](https://github.com/vaibhav-mattoo/bitchat-tui/releases/download/v0.1.0/bitchat-tui-x86_64-unknown-linux-musl.tar.gz) | 2.3 MiB | `native/linux/x64/musl` |
 
 ## 流行度
 
@@ -61,4 +71,4 @@ bitchat-tui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/insta
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:49:39Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:39:32Z._
