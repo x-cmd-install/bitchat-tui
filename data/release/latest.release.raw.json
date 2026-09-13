@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2119869,
       "digest": "sha256:91d9727571e18368eab63508089a4b4f5b147169c348e0eace5e4e34f961d2fa",
-      "download_count": 161,
+      "download_count": 162,
       "created_at": "2025-07-21T06:45:43Z",
       "updated_at": "2025-07-21T06:45:43Z",
       "browser_download_url": "https://github.com/vaibhav-mattoo/bitchat-tui/releases/download/v0.1.0/bitchat-tui-aarch64-unknown-linux-musl.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1696230,
       "digest": "sha256:5f26056fd43bbdff50bf57dfb2c15f99460765040e9f44117a85dd72672812e5",
-      "download_count": 800,
+      "download_count": 802,
       "created_at": "2025-07-21T06:45:13Z",
       "updated_at": "2025-07-21T06:45:13Z",
       "browser_download_url": "https://github.com/vaibhav-mattoo/bitchat-tui/releases/download/v0.1.0/bitchat-tui-x86_64-pc-windows-msvc.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2405136,
       "digest": "sha256:6a39bd584a203b294a8ba861bd3f9c27da530e7126975b4fab6b39cbd7d4ad7e",
-      "download_count": 1518,
+      "download_count": 1521,
       "created_at": "2025-07-21T06:45:25Z",
       "updated_at": "2025-07-21T06:45:26Z",
       "browser_download_url": "https://github.com/vaibhav-mattoo/bitchat-tui/releases/download/v0.1.0/bitchat-tui-x86_64-unknown-linux-musl.tar.gz"
